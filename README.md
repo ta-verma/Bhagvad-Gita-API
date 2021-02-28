@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-Bhagvadgita%20API-blueviolet.svg)
+![http://gita-api.herokuapp.com](https://img.shields.io/badge/-Bhagvadgita%20API-blueviolet.svg)
 
 Bhagvadgita API
 ======
