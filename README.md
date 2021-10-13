@@ -2,7 +2,7 @@ Bhagvadgita API
 ======
 
 ## Website
-###`https://gita-api.herokuapp.com/gita`
+### `https://gita-api.herokuapp.com/gita`
 
 An API to get Bhagvadgita Sloaks.
 
